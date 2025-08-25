@@ -1,7 +1,7 @@
 # Hi, I'm Pedro 👋
 
 # 💫 About Me:
-🌱 Currently learning **Flutter Mobile Development**  <br>🚀 Next goal: **Backend with Golang (Go)**  <br>💡 Interests: Mobile apps, APIs, scalable backend systems  
+🌱 Currently learning **Backend with Golang (Go)**  <br>🚀 Next goal: **Flutter Mobile Development**  <br>💡 Interests: Mobile apps, APIs, scalable backend systems  
 
 
 
